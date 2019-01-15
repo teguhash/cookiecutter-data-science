@@ -1,0 +1,9 @@
+{
+    "project_name": "project_name",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Your name (or email)",
+    "description": "A short description of the project.",
+    "gcs_bucket": "bucket-name",
+    "gcs_path": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "python_interpreter": ["python3", "python"]
+}
