@@ -1,3 +1,5 @@
+This is my fork of [DrivenData's Cookiecutter Data Science template](https://github.com/drivendata/cookiecutter-data-science). I made changes to fit my specific needs.
+
 # Cookiecutter Data Science
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
